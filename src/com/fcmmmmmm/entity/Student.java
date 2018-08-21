@@ -8,6 +8,17 @@ public class Student {
 	String name;
 	int age;
 
+	public Student() {
+		super();
+	}
+
+	public Student(BigInteger id, String name, int age) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+	}
+
 	public BigInteger getId() {
 		return id;
 	}
