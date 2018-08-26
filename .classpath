@@ -83,5 +83,7 @@
 	<classpathentry kind="lib" path="D:/360极速浏览器下载/spring-data-commons-1.13.8.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/360极速浏览器下载/spring-data-commons-core-1.4.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/360极速浏览器下载/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/360极速浏览器下载/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/360极速浏览器下载/spring-data-redis-1.8.6.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
